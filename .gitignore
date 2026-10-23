@@ -5,7 +5,7 @@ node_modules/
 
 # Environment Variables & Secrets (Kabhi Push Mat Karna)
 .env
-.env.local
+./env.local
 .env.example
 .env.development.local
 .env.test.local
